@@ -12,6 +12,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>e-springcloud-common</module>
+        <module>e-springcloud-mvc-config</module>
     </modules>
 
     <parent>
