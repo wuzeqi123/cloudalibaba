@@ -10,6 +10,9 @@
 
 
     <packaging>pom</packaging>
+    <modules>
+        <module>e-springcloud-common</module>
+    </modules>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
