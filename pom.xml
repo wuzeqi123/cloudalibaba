@@ -13,6 +13,7 @@
     <modules>
         <module>e-springcloud-common</module>
         <module>e-springcloud-mvc-config</module>
+        <module>e-springcloud-alibaba-nacos-client</module>
     </modules>
 
     <parent>
