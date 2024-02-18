@@ -16,6 +16,7 @@
         <module>e-springcloud-alibaba-nacos-client</module>
         <module>e-springcloud-admin</module>
         <module>e-springcloud-authority-center</module>
+        <module>e-springcloud-gateway</module>
     </modules>
 
     <parent>
